@@ -12,6 +12,6 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/xjnxjnxjn/pio-xtensa8266-5.2.0.git"
+        "url": "https://github.com/xjnxjnxjn/pio-toolchain-xtensa8266-5.2.0.git"
     }
 }
